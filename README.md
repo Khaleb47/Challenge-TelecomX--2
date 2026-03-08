@@ -16,3 +16,6 @@ La empresa quiere anticiparse al problema de la cancelación, y te corresponde a
 ✅ Construcción y evaluación de modelos predictivos  
 ✅ Interpretación de resultados y entrega de insights  
 ✅ Comunicación técnica con enfoque estratégico  
+
+![832d01c5-aa1f-4a72-894b-9bb18b8d2a00](https://github.com/user-attachments/assets/5714f6df-a3b3-4b8d-a306-d9898678b6e9)
+
